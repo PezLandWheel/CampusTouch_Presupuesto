@@ -10,7 +10,6 @@
 * **Velocidad Lograda (Real):** 0 SP en la columna **Done** al corte.
 * **Porcentaje de Cumplimiento:** 0% según el estado del proyecto (`0 / 15 SP`).
 
-> **Discrepancia de estado:** el issue #1 (HU-01) figura cerrado en GitHub Issues, pero su tarjeta todavía tiene `Status: Backlog` en el Project. Por eso no se cuenta como Done en las métricas de esta vista. Debe reconciliarse el campo Status con la evidencia de aceptación antes del cierre del informe.
 
 El ejemplo de la guía menciona 12 SP planeados, 2 SP logrados y una HU-03 de 2 SP. Esos valores e historias no coinciden con el tablero de CampusTouch; este informe usa los datos reales del proyecto, donde HU-03 tiene 5 SP.
 
